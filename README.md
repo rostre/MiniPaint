@@ -10,4 +10,4 @@
 
 ## Demo
 
-![Gif1](gifs/draw.gif)
+![Gif1](gif/draw.gif)
